@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLeasing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Leasing>
+    <LeasingBuyerName>The Ink Company</LeasingBuyerName>
+    <LeasingCarModel>Hummer H2</LeasingCarModel>
+    <LeasingrenthMonth>10000</LeasingrenthMonth>
+    <LeasingrentPeriod>6</LeasingrentPeriod>
+    <LeasingstartDate>2013-03-05T21:58:29.8041242+01:00</LeasingstartDate>
+  </Leasing>
+  <Leasing>
+    <LeasingBuyerName>Syddansk Universitet</LeasingBuyerName>
+    <LeasingCarModel>Optimus Prime</LeasingCarModel>
+    <LeasingrenthMonth>50000</LeasingrenthMonth>
+    <LeasingrentPeriod>12</LeasingrentPeriod>
+    <LeasingstartDate>2013-03-06T13:12:55.4293394+01:00</LeasingstartDate>
+  </Leasing>
+  <Leasing>
+    <LeasingBuyerName>Philips</LeasingBuyerName>
+    <LeasingCarModel>Toyota Hiace</LeasingCarModel>
+    <LeasingrenthMonth>200</LeasingrenthMonth>
+    <LeasingrentPeriod>4</LeasingrentPeriod>
+    <LeasingstartDate>2013-05-16T12:20:52.8034854+02:00</LeasingstartDate>
+  </Leasing>
+  <Leasing>
+    <LeasingBuyerName />
+    <LeasingCarModel />
+    <LeasingrenthMonth>32123</LeasingrenthMonth>
+    <LeasingrentPeriod>4</LeasingrentPeriod>
+    <LeasingstartDate>2013-05-17T19:28:49.6321902+02:00</LeasingstartDate>
+  </Leasing>
+  <Leasing>
+    <LeasingBuyerName />
+    <LeasingCarModel />
+    <LeasingrenthMonth>32123</LeasingrenthMonth>
+    <LeasingrentPeriod>24</LeasingrentPeriod>
+    <LeasingstartDate>2013-05-17T19:29:33.658789+02:00</LeasingstartDate>
+  </Leasing>
+  <Leasing>
+    <LeasingBuyerName>Sony</LeasingBuyerName>
+    <LeasingCarModel>Nissan</LeasingCarModel>
+    <LeasingrenthMonth>4</LeasingrenthMonth>
+    <LeasingrentPeriod>6</LeasingrentPeriod>
+    <LeasingstartDate>2013-05-17T20:02:33.5153653+02:00</LeasingstartDate>
+  </Leasing>
+</ArrayOfLeasing>

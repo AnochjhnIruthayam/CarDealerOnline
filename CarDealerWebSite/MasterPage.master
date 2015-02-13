@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            font-size: x-large;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+        #content {
+            height: 238px;
+            width: 751px;
+        }
+        #content0 {
+            height: 238px;
+            width: 410px;
+        }
+        
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="auto-style2">
+            <h1><span class="auto-style1"><strong>Car Dealer Application</strong></span></div>
+    </div>
+    <p>
+        &nbsp;&nbsp;&nbsp; 
+        <asp:Menu Orientation="Horizontal" ID="Menu1" runat="server" BackColor="#B5C7DE" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#284E98" StaticSubMenuIndent="10px">
+            <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <DynamicMenuStyle BackColor="#B5C7DE" />
+            <DynamicSelectedStyle BackColor="#507CD1" />
+            <Items>
+                <asp:MenuItem Text="Customer" Value="Customer">
+                    <asp:MenuItem Text="Private" Value="Private" NavigateUrl="~/PrivateCustomerWeb.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Business" Value="Business" NavigateUrl="~/BusinessCustomerWeb.aspx"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Vehicle" Value="Vehicle">
+                    <asp:MenuItem Text="Car" Value="Car">
+                        <asp:MenuItem Text="Small" Value="Small" NavigateUrl="~/SmallCarWeb.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Large" Value="Large" NavigateUrl="~/LargeCarWeb.aspx"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Truck" Value="Truck" NavigateUrl="~/TruckWeb.aspx"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Contract" Value="Contract">
+                    <asp:MenuItem NavigateUrl="~/PrivateContractWeb.aspx" Text="Private" Value="Private"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/BusinessContractWeb.aspx" Text="Business" Value="Business"></asp:MenuItem>
+                </asp:MenuItem>
+            </Items>
+            <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <StaticSelectedStyle BackColor="#507CD1" />
+        </asp:Menu>
+                    <div id="content">
+                <asp:contentplaceholder id="MainContent" runat="server">
+                  <!-- Page-specific content will go here... -->
+                </asp:contentplaceholder>
+            </div>
+        </p>
+    </form>
+    <p>
+        &nbsp;</p>
+    <p>
+        &nbsp;</p>
+    <p>
+        &nbsp;</p>
+</body>
+</html>

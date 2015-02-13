@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLarge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Large>
+    <buyerName>NONE</buyerName>
+    <price>199999</price>
+    <color>Grey</color>
+    <model>Suzuki Swift</model>
+    <status>Available</status>
+    <largeCarCapacity>6</largeCarCapacity>
+  </Large>
+  <Large>
+    <buyerName>NONE</buyerName>
+    <price>434900</price>
+    <color>Black</color>
+    <model>Audi A6</model>
+    <status>Available</status>
+    <largeCarCapacity>5</largeCarCapacity>
+  </Large>
+  <Large>
+    <buyerName>Gordan Kennedy</buyerName>
+    <price>500000</price>
+    <color>Yellow</color>
+    <model>Mercedes</model>
+    <status>Sold</status>
+    <largeCarCapacity>2</largeCarCapacity>
+  </Large>
+  <Large>
+    <buyerName>NONE</buyerName>
+    <price>300000</price>
+    <color>Yellow</color>
+    <model>Toyota H1</model>
+    <status>Available</status>
+    <largeCarCapacity>4</largeCarCapacity>
+  </Large>
+</ArrayOfLarge>

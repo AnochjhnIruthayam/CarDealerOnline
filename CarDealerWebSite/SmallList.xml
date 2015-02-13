@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSmall xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Small>
+    <buyerName>Gordon Ramsey</buyerName>
+    <price>10000</price>
+    <color>Black</color>
+    <model>Toyota Aygo</model>
+    <status>Sold</status>
+    <weight>1000</weight>
+  </Small>
+  <Small>
+    <buyerName>ACDC</buyerName>
+    <price>99000</price>
+    <color>Blue</color>
+    <model>Peugeot 107</model>
+    <status>Sold</status>
+    <weight>1400</weight>
+  </Small>
+  <Small>
+    <buyerName>ACDC</buyerName>
+    <price>3199900</price>
+    <color>Grey</color>
+    <model>Audi R8</model>
+    <status>Commission</status>
+    <weight>2000</weight>
+  </Small>
+</ArrayOfSmall>

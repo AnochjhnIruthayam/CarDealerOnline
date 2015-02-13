@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTruck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Truck>
+    <buyerName>Philips</buyerName>
+    <price>45000</price>
+    <color>White</color>
+    <model>Toyota Hiace</model>
+    <status>Commission</status>
+    <capacity>230</capacity>
+  </Truck>
+  <Truck>
+    <buyerName>The Ink Company</buyerName>
+    <price>500000</price>
+    <color>Black</color>
+    <model>Hummer H2</model>
+    <status>Leased</status>
+    <capacity>20</capacity>
+  </Truck>
+  <Truck>
+    <buyerName>Syddansk Universitet</buyerName>
+    <price>8.5E+08</price>
+    <color>BlueRed</color>
+    <model>Optimus Prime</model>
+    <status>Leased</status>
+    <capacity>1000</capacity>
+  </Truck>
+  <Truck>
+    <buyerName>NONE</buyerName>
+    <price>4000000</price>
+    <color>Red</color>
+    <model>Scania R470</model>
+    <status>Available</status>
+    <capacity>100000</capacity>
+  </Truck>
+  <Truck>
+    <buyerName>Sony</buyerName>
+    <price>900000</price>
+    <color>Black</color>
+    <model>Nissan</model>
+    <status>Commission</status>
+    <capacity>900</capacity>
+  </Truck>
+</ArrayOfTruck>

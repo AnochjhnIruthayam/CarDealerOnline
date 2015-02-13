@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBusinessCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BusinessCustomer>
+    <name>Philips</name>
+    <address>Lalala</address>
+    <phone>3434645</phone>
+    <SEnr>342523465</SEnr>
+    <fax>4657342</fax>
+    <ContactPerson>Thomas Anderson</ContactPerson>
+  </BusinessCustomer>
+  <BusinessCustomer>
+    <name>Sony</name>
+    <address>Japanne 3</address>
+    <phone>3434645</phone>
+    <SEnr>756623</SEnr>
+    <fax>4657342</fax>
+    <ContactPerson>Hans Zimmer</ContactPerson>
+  </BusinessCustomer>
+  <BusinessCustomer>
+    <name>HP</name>
+    <address>Grandroad 23</address>
+    <phone>723843</phone>
+    <SEnr>234234</SEnr>
+    <fax>234534</fax>
+    <ContactPerson>Leo Garden</ContactPerson>
+  </BusinessCustomer>
+  <BusinessCustomer>
+    <name>Logitech</name>
+    <address>Ulahnas</address>
+    <phone>234556</phone>
+    <SEnr>34562</SEnr>
+    <fax>234562</fax>
+    <ContactPerson>Asus Pegasus</ContactPerson>
+  </BusinessCustomer>
+  <BusinessCustomer>
+    <name>Nokia</name>
+    <address>Streetview 2</address>
+    <phone>34532454</phone>
+    <SEnr>6534556</SEnr>
+    <fax>23452465</fax>
+    <ContactPerson>Trapsson Jenkins</ContactPerson>
+  </BusinessCustomer>
+  <BusinessCustomer>
+    <name>Microsoft</name>
+    <address>rastvej 2</address>
+    <phone>8936544</phone>
+    <SEnr>6547587</SEnr>
+    <fax>894589</fax>
+    <ContactPerson>Paul Wales</ContactPerson>
+  </BusinessCustomer>
+</ArrayOfBusinessCustomer>

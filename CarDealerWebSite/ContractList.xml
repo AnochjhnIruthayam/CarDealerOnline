@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:01:01.5386225+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:06:07.3591144+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:06:31.7700882+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:22:32.3468522+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:24:35.743299+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:35:15.1988737+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:35:33.7059323+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:41:05.8230185+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:50:41.7989019+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:57:27.3941006+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T11:58:43.5574569+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T12:00:06.2141846+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Peugeot 107</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T12:07:35.8539025+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Audi R8</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2013-05-16T12:07:57.1181187+02:00</ContractBuyDate>
+  </Contract>
+  <Contract>
+    <ContractCarModel>Audi R8</ContractCarModel>
+    <ContractBuyerName>ACDC</ContractBuyerName>
+    <ContractBuyDate>2015-02-13T19:12:30.6377165+01:00</ContractBuyDate>
+  </Contract>
+</ArrayOfContract>

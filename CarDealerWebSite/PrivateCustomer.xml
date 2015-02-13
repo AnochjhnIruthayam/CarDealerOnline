@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPrivateCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PrivateCustomer>
+    <name>ACDC</name>
+    <address>halssd</address>
+    <phone>3249573</phone>
+    <age>32</age>
+    <sex>Male</sex>
+  </PrivateCustomer>
+  <PrivateCustomer>
+    <name>Hans</name>
+    <address>Pildaf</address>
+    <phone>345634</phone>
+    <age>45</age>
+    <sex>Male</sex>
+  </PrivateCustomer>
+  <PrivateCustomer>
+    <name>Paul Williams</name>
+    <address>Collins</address>
+    <phone>234563456</phone>
+    <age>54</age>
+    <sex>Male</sex>
+  </PrivateCustomer>
+  <PrivateCustomer>
+    <name>Gordan Ramsey</name>
+    <address>Chillingstreet 23</address>
+    <phone>4523453</phone>
+    <age>45</age>
+    <sex>Male</sex>
+  </PrivateCustomer>
+</ArrayOfPrivateCustomer>
